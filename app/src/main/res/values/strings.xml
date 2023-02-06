@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuadrantApp</string>
+    <string name="first_title">First Quadrant</string>
+    <string name="first_description">First quadrant description</string>
+    <string name="second_title">Second Quadrant</string>
+    <string name="second_description">Second Quadrant Description</string>
+    <string name="third_title">Third Quadrant</string>
+    <string name="third_description">Third Quadrant Description</string>
+    <string name="fourth_title">Fourth Quadrant</string>
+    <string name="fourth_description">Fourth Quadrant Description</string>
+</resources>
